@@ -1,3 +1,9 @@
+
+一些可参考的内核源码
+arch\arm64\kernel\hw_breakpoint.c
+
+
+# 下面是原文档说明
 ## 已实现功能
 - [x] proc通过IO物理地址查询所有ioremap的虚拟地址   
 - [x] proc通过符号查询符号里的内容，常用于指针变量
